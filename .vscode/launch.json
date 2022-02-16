@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch InnerClassesDemo",
+            "request": "launch",
+            "mainClass": "InnerClassesDemo",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestFileIOException",
+            "request": "launch",
+            "mainClass": "TestFileIOException",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestException",
+            "request": "launch",
+            "mainClass": "TestException",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionTest",
+            "request": "launch",
+            "mainClass": "ExceptionTest",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MoreTest",
+            "request": "launch",
+            "mainClass": "MoreTest",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomException",
+            "request": "launch",
+            "mainClass": "CustomException",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BeanDemo",
+            "request": "launch",
+            "mainClass": "BeanDemo",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CompetableFutureEx",
+            "request": "launch",
+            "mainClass": "CompetableFutureEx",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExtendAB",
+            "request": "launch",
+            "mainClass": "ExtendAB",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch FunctionaInterfaces",
+            "request": "launch",
+            "mainClass": "FunctionaInterfaces",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntStreamDemo",
+            "request": "launch",
+            "mainClass": "IntStreamDemo",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interview",
+            "request": "launch",
+            "mainClass": "Interview",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch IteratorDemo",
+            "request": "launch",
+            "mainClass": "IteratorDemo",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaStreams",
+            "request": "launch",
+            "mainClass": "JavaStreams",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MatrixMulti",
+            "request": "launch",
+            "mainClass": "MatrixMulti",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodReference",
+            "request": "launch",
+            "mainClass": "MethodReference",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch NullableJava8",
+            "request": "launch",
+            "mainClass": "NullableJava8",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch OtpGenerator",
+            "request": "launch",
+            "mainClass": "OtpGenerator",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamEx",
+            "request": "launch",
+            "mainClass": "StreamEx",
+            "projectName": "Java1.8_170b72b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java1.8_170b72b5"
+        }
+    ]
+}
