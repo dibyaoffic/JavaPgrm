@@ -8,7 +8,7 @@ import java.io.PrintWriter;
 public class TestFileIOException {
     public static void main(String[] args) {
         try {
-            fileWritting();
+           // fileWritting();
             fileReading();
         } catch (Exception e) {
             e.printStackTrace();
@@ -58,5 +58,6 @@ class DataNotFoundException extends RuntimeException {
         this.messageString = string;
         System.out.println(string);
     }
+    
 
 }
