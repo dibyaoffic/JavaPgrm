@@ -5,6 +5,16 @@ class Employee{
     private double balance;
     private int pass;
     
+    
+    public Employee() {
+    }
+
+    public Employee(String name, double balance, int pass) {
+        this.name = name;
+        this.balance = balance;
+        this.pass = pass;
+    }
+
     public String getName() {
         return name;
     }
